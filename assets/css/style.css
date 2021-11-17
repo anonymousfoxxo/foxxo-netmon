@@ -1,9 +1,5 @@
 @import "{{ site.theme }}";
 
-footer {
-  display: none !important;
-}
-
-.btn {
+.site-footer-credits{
   display: none !important;
 }
