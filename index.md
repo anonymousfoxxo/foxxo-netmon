@@ -1,8 +1,6 @@
 ## foxxo-netmon
 
-rYou can use the [editor on GitHub](https://github.com/anonymousfoxxo/foxxo-netmon/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+foxxo-netmon is a network guardian written in python. This netmon is made spacifically to protect Gta Online players from modders and griefers. This tool offers control over who can enter your session. If you're a lone grinder, enjoy the solitude of strictly locked solo sessions. Add friends to your whitelist and enjoy grinding without being disturbed by unwanted.
 
 ### Markdown
 
