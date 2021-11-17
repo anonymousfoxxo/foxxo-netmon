@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to foxxo-netmon
 
 You can use the [editor on GitHub](https://github.com/anonymousfoxxo/foxxo-netmon/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
