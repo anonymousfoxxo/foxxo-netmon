@@ -1,6 +1,6 @@
 ---
-name: Custom issue template
-about: Describe this issue template's purpose here.
+name: foxxo-netmon-public
+about: recommended template for public issues 
 title: ''
 labels: ''
 assignees: ''
