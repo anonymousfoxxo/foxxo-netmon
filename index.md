@@ -8,10 +8,11 @@ foxxo-netmon is a network guardian written in python. This netmon is made spacif
 This tool offers control over who can enter your session. If you're a lone grinder, enjoy the solitude of a strictly locked solo session. On the other hand, add friends to your whitelist and enjoy grinding without being disturbed by unwanted players.
 
 ## feature highlights
-<div align="center" display="inline">
-  <img src="assets/img/foxxo-netmon-autolock.png"/>
-  <img src="assets/img/foxxo-netmon-options.png"/>
+<div float="left">
+  <img src="assets/img/foxxo-netmon-autolock.png" width="100"/>
+  <img src="assets/img/foxxo-netmon-options.png" width="100"/>
 </div>
+
 
 ## checksums
 
