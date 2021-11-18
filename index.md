@@ -1,8 +1,8 @@
 ## foxxo-netmon
 
-<p align="center" style="width: 30px;">
+<div align="center">
   <img src="assets/img/foxxo-netmon-home.png" max-width="100px"/>
-</p>
+</div>
 
 foxxo-netmon is a network guardian written in python. This netmon is made spacifically to protect Gta Online players from modders and griefers. 
 
