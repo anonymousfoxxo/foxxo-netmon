@@ -9,6 +9,7 @@ This tool offers control over who can enter your session. If you're a lone grind
 
 ## feature highlights
 - autolock
+  - Automatically detect players present in the session over a 20 second window and lock the session with those players 
 - whitelist
 - action logs
 <div float="left" align="center">
