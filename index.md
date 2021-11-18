@@ -20,8 +20,8 @@ This tool offers control over who can enter your session. If you're a lone grind
   - Manage your **whitelist** by adding or dropping players by **ip**. Running a **whitelisted session** allows you to make sure only these players can enter your session at any time  
   - Every player added to or dropped from your whitelist is recorded by ip, status and timestamp to the **log database** for fure reference. 
 <div float="left">
-  <img src="assets/img/foxxo-netmon-options.png" height="250"/>
-  <img src="assets/img/foxxo-netmon-reset.png" height="250"/>
+  <img src="assets/img/foxxo-netmon-options.png" height="260"/>
+  <img src="assets/img/foxxo-netmon-reset.png" height="260"/>
 </div>
 
 
