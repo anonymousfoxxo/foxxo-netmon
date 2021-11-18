@@ -4,28 +4,28 @@
   <img src="assets/img/foxxo-netmon-home.png"/>
 </div>
 
-foxxo-netmon is a network guardian written in python. This netmon is made spacifically to protect Gta Online players from modders and griefers. 
+**foxxo-netmon** is a network guardian written in python. This netmon is made spacifically to protect Gta Online players from **modders** and **griefers**. 
 
-This tool offers control over who can enter your session. If you're a lone grinder, enjoy the solitude of a strictly locked solo session. On the other hand, add friends to your whitelist and enjoy grinding without being disturbed by unwanted players.
+This tool offers control over who can enter your session. If you're a lone grinder, enjoy the solitude of a strictly locked **solo session**. On the other hand, add friends to your whitelist and enjoy grinding without being disturbed by unwanted players.
 
 ## feature highlights
 - **autolock**
-  - Automatically detect players present in session over a 30 second window and lock the session with those players.
-  - These players are not added to whitelist. They are only temporarily allowed to be in your session. 
+  - Automatically detect players present in session over a 30 second window and **lock** the session with those players.
+  - These players are not added to **whitelist**. They are only temporarily allowed to be in your session. 
 <div float="left" align="left">
   <img src="assets/img/foxxo-netmon-autolock.png" height="400"/>
 </div>
 
 - **whitelist & action logs**
-  - Manage your whitelist by adding or dropping players by ip. Running a whitelisted session allows you to make sure only these players can enter your session at any time  
-  - Every player added to or dropped from your whitelist is recorded by ip, status and timestamp to the log database for fure reference. 
+  - Manage your **whitelist** by adding or dropping players by **ip**. Running a **whitelisted session** allows you to make sure only these players can enter your session at any time  
+  - Every player added to or dropped from your whitelist is recorded by ip, status and timestamp to the **log database** for fure reference. 
 <div float="left">
-  <img src="assets/img/foxxo-netmon-options.png" height="245"/>
-  <img src="assets/img/foxxo-netmon-reset.png" height="245"/>
+  <img src="assets/img/foxxo-netmon-options.png" height="250"/>
+  <img src="assets/img/foxxo-netmon-reset.png" height="250"/>
 </div>
 
 
-## checksums
+## **checksums**
 
 #### MD5 hash of file anonymousfoxxo-foxxo-netmon-v1.5.3-pre-release-1-g0efd5f6.zip:
 93 97 7b 05 d2 ba 31 7f a5 2d 62 5a 2b 60 9f f7
