@@ -15,6 +15,7 @@ This tool offers control over who can enter your session. If you're a lone grind
 <div float="left" align="left">
   <img src="assets/img/foxxo-netmon-autolock.png" height="400"/>
 </div>
+
 - whitelist
   - Manage your whitelist by adding or dropping players by ip. Running a whitelisted session allows you to make sure only these players can enter your session at any time  
 - action logs
