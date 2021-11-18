@@ -10,9 +10,9 @@ This tool offers control over who can enter your session. If you're a lone grind
 
 ## feature highlights
 - autolock
-- <div float="left" align="center">
-  <img src="assets/img/foxxo-netmon-autolock.png" height="240"/>
-  </div>
+<div float="left" align="center">
+<img src="assets/img/foxxo-netmon-autolock.png" height="240"/>
+</div>
   - Automatically detect players present in session over a 30 second window and lock the session with those players.
   - These players are not added to whitelist. They are only temporarily allowed to be in your session. 
 - whitelist
