@@ -25,7 +25,7 @@ This tool offers control over who can enter your session. If you're a lone grind
 </div>
 
 
-## **checksums**
+## checksums
 
 #### MD5 hash of file anonymousfoxxo-foxxo-netmon-v1.5.3-pre-release-1-g0efd5f6.zip:
 93 97 7b 05 d2 ba 31 7f a5 2d 62 5a 2b 60 9f f7
