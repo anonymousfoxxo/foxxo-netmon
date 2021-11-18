@@ -1,6 +1,6 @@
 ## foxxo-netmon
 
-<p align="center" style="width: 630px;">
+<p align="center" style="width: 30px;">
   <img src="assets/img/foxxo-netmon-home.png" max-width="100px"/>
 </p>
 
