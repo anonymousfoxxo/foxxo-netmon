@@ -9,8 +9,8 @@ This tool offers control over who can enter your session. If you're a lone grind
 
 ## feature highlights
 <div float="left">
-  <img src="assets/img/foxxo-netmon-autolock.png" height="310"/>
-  <img src="assets/img/foxxo-netmon-options.png" height="310"/>
+  <img src="assets/img/foxxo-netmon-autolock.png" height="315"/>
+  <img src="assets/img/foxxo-netmon-options.png" height="315"/>
 </div>
 
 
