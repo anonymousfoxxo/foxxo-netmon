@@ -4,12 +4,26 @@ foxxo-netmon is a network guardian written in python. This netmon is made spacif
 
 This tool offers control over who can enter your session. If you're a lone grinder, enjoy the solitude of a strictly locked solo session. On the other hand, add friends to your whitelist and enjoy grinding without being disturbed by unwanted players.
 
-### Checksum
-# md5 :
-bf83fcdc6e0077f0acfdd2e9b2171b4e
+## Checksums
+### zip
+#### md5
+#### MD5 hash of file anonymousfoxxo-foxxo-netmon-v1.5.3-pre-release-1-g0efd5f6.zip:
+93 97 7b 05 d2 ba 31 7f a5 2d 62 5a 2b 60 9f f7
+#### sha256
+#### SHA256 hash of file anonymousfoxxo-foxxo-netmon-v1.5.3-pre-release-1-g0efd5f6.zip:
+b4 d2 e6 ef a5 a6 13 a0 65 96 9b b4 9a e3 eb b2 1c 79 64 3e ca b3 10 40 bb 38 e2 65 a5 56 8a 88
+#### sha512
+#### SHA512 hash of file anonymousfoxxo-foxxo-netmon-v1.5.3-pre-release-1-g0efd5f6.zip:
+22 31 be 9d e0 36 32 42 ab c0 4b 8c c1 df 27 42 1d b6 7e 3b d9 f3 36 02 ac 73 f3 a0 14 8e a5 c4 49 dc 69 6c a2 75 88 1b 0f 6e e9 59 74 d5 9c 4f 02 d8 aa 05 58 63 b4 fa 04 62 e5 7c 02 b7 00 3a
+### tar.gz
+#### md5
+#### MD5 hash of file anonymousfoxxo-foxxo-netmon-v1.5.3-pre-release-1-g0efd5f6.tar.gz:
+30 b4 0c f3 af 7b 8c 1f 9f 76 6c 3b 07 e3 70 34
 
-# sha256:
-8e34fa7ee202dc5a460b7380620e3df9d4e7a146fd7f8e38ab93e0a7e3f124c4
+#### sha256
+#### SHA256 hash of file anonymousfoxxo-foxxo-netmon-v1.5.3-pre-release-1-g0efd5f6.tar.gz:
+8b f4 13 24 01 3d 22 4c 7e 43 e8 0c 23 1d ee 98 95 c7 27 20 d5 64 ee 0c c6 2a 7f 56 45 88 16 aa
 
-# sha512 :
-8d fc 9f 77 e3 3d 3e bf d5 76 6e e9 66 d7 5a c9 b1 ed 2f 0a 82 e6 c5 f2 c7 1b 97 68 a5 b9 f0 41 9a df a6 4c 6d 36 e1 25 e3 5a 05 27 55 c8 5c a3 41 b8 f6 46 ee 0b 39 6d af 3f 91 76 28 a3 76 0d
+#### sha512
+#### SHA512 hash of file anonymousfoxxo-foxxo-netmon-v1.5.3-pre-release-1-g0efd5f6.zip:
+22 31 be 9d e0 36 32 42 ab c0 4b 8c c1 df 27 42 1d b6 7e 3b d9 f3 36 02 ac 73 f3 a0 14 8e a5 c4 49 dc 69 6c a2 75 88 1b 0f 6e e9 59 74 d5 9c 4f 02 d8 aa 05 58 63 b4 fa 04 62 e5 7c 02 b7 00 3a
