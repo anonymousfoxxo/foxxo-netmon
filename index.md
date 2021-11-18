@@ -1,5 +1,7 @@
 ## foxxo-netmon
 
+![image](assets/img/foxxo-netmon-home.png)
+
 foxxo-netmon is a network guardian written in python. This netmon is made spacifically to protect Gta Online players from modders and griefers. 
 
 This tool offers control over who can enter your session. If you're a lone grinder, enjoy the solitude of a strictly locked solo session. On the other hand, add friends to your whitelist and enjoy grinding without being disturbed by unwanted players.
