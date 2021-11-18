@@ -1,6 +1,7 @@
 theme: jekyll-theme-cayman
 title: foxxo-netmon
 site_favicon: favicon.ico
+favicon: favicon.ico
 logo: /assets/img/[ai]_tmp-6146f5c96bd3d.png
 description: Network Guardian for Gta Online
 show_downloads: true
