@@ -1,21 +1,18 @@
-# Security Policy
+# foxxo-netmon Security Policy
 
 ## Supported Versions
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+foxxo-netmon currently does not support automatic security updates. However, latest security fixes will be incorporated into new releases.
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
+| 0.x.y   | :x: |
+| 1.5.x   | :white_check_mark:                |
+| < 2.0   | :white_check_mark: |
 
 ## Reporting a Vulnerability
 
-Use this section to tell people how to report a vulnerability.
+foxxo-netmon does not require any personal information to be transmitted over the internet for normal operation. Security vulnerabilities, transitive or otherwise,  when found will be fixed before the next release. Please make sure you are using the latest version of the software. 
 
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+If you happen to discover a security vulnerability, please open an issue to report it using the security label at the earliest possible. 
+Thank you. 
