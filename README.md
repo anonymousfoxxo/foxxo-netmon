@@ -17,13 +17,13 @@ The objective of this project is to protect legitimate players of GTA Online fro
 Verify the integrity of the the applicationX64.zip file. The hashes must match the checksums given on the official page.  
 On Windows, this can be done using the default certutil from powershell as follows : 
 
-MD5 
+MD5:
 certutil -hashfile applicationX64.zip md5
 
-SHA256
+SHA256:
 certutil -hashfile applicationX64.zip SHA256
 
-SHA512
+SHA512:
 certutil -hashfile applicationX64.zip SHA512
 
 Thank you for using foxxo-netmon :) 
