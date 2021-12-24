@@ -2,9 +2,10 @@
 Network Guardian for GTA Online
 
 foxxo-netmon is a closed source, free to use network guardian for GTA Online. The latest version of foxxo-netmon at present is 1.5.4.
+The objective of this project is to protect legitimate players of GTA Online from modders and griefers while enjoying the benefits of public sessions. With foxxo-netmon friendly grinders can host public sessions with IP based restrictions. For more information, visit the official page at https://anonymousfoxxo.github.io/foxxo-netmon/
 
 # Installation
-(1) To get started using foxxo-netmon, head to the official page at https://anonymousfoxxo.github.io/foxxo-netmon/
+(1) To get started using foxxo-netmon, head to the official page
 (2) Download the latest version of foxxo-netmon and extract the files
 (3) Once the files have been extracted, extract the contents of the file named applicationX64.zip
 (4) A new folder named foxxo-netmon will now appear in the working directory (this is the root folder of foxxo-netmon)
