@@ -1,5 +1,5 @@
 ## foxxo-netmon
-##### **current version : v1.5.3 pre-release**
+##### **current version : v1.5.4 (first public release)**
 <div align="center">
   <img src="assets/img/foxxo-netmon-home.png"/>
 </div>
