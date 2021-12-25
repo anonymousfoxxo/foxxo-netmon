@@ -27,20 +27,11 @@ This tool offers control over who can enter your session. If you're a lone grind
 
 ## checksums
 
-#### MD5 hash of file anonymousfoxxo-foxxo-netmon-v1.5.3-pre-release-1-g0efd5f6.zip:
-93 97 7b 05 d2 ba 31 7f a5 2d 62 5a 2b 60 9f f7
+#### MD5 hash of file applicationX64.zip:
+85 0d d9 6b a4 ec 3f 77 5a f7 5f f8 2c 40 c8 d4
 
-#### SHA256 hash of file anonymousfoxxo-foxxo-netmon-v1.5.3-pre-release-1-g0efd5f6.zip:
-b4 d2 e6 ef a5 a6 13 a0 65 96 9b b4 9a e3 eb b2 1c 79 64 3e ca b3 10 40 bb 38 e2 65 a5 56 8a 88
+#### SHA256 hash of file applicationX64.zip:
+9a 2f 79 bb 53 9c a3 2b b2 41 1b 66 ce 54 17 9b 0c 4e 97 ec 80 e6 46 4d ac 04 30 5a 23 c5 9b 1e
 
-#### SHA512 hash of file anonymousfoxxo-foxxo-netmon-v1.5.3-pre-release-1-g0efd5f6.zip:
-22 31 be 9d e0 36 32 42 ab c0 4b 8c c1 df 27 42 1d b6 7e 3b d9 f3 36 02 ac 73 f3 a0 14 8e a5 c4 49 dc 69 6c a2 75 88 1b 0f 6e e9 59 74 d5 9c 4f 02 d8 aa 05 58 63 b4 fa 04 62 e5 7c 02 b7 00 3a
-
-#### MD5 hash of file anonymousfoxxo-foxxo-netmon-v1.5.3-pre-release-1-g0efd5f6.tar.gz:
-30 b4 0c f3 af 7b 8c 1f 9f 76 6c 3b 07 e3 70 34
-
-#### SHA256 hash of file anonymousfoxxo-foxxo-netmon-v1.5.3-pre-release-1-g0efd5f6.tar.gz:
-8b f4 13 24 01 3d 22 4c 7e 43 e8 0c 23 1d ee 98 95 c7 27 20 d5 64 ee 0c c6 2a 7f 56 45 88 16 aa
-
-#### SHA512 hash of file anonymousfoxxo-foxxo-netmon-v1.5.3-pre-release-1-g0efd5f6.tar.gz:
-e2 f0 a9 6e 54 cb a4 b3 32 ee dd 05 0b 63 33 ee 3c 56 e7 79 26 79 36 f3 42 af c7 43 98 35 c2 9b 24 f8 68 83 aa 71 01 c9 11 03 48 3f 23 1b 23 75 d9 f9 68 3b 2d 78 a7 8f 15 b0 64 f7 85 bb de 60
+#### SHA512 hash of file applicationX64.zip:
+b8 89 59 d1 c7 8e 5f 22 21 f5 1d cd 74 6d 7e b9 f8 79 dd 58 da f5 62 00 2b 66 37 21 65 64 b3 ea ee d1 1d 36 db 2a ac dd 10 8a 5a ae 99 cd 16 16 4a 01 95 02 c1 ce b3 ec c0 6f ef 14 5b ce 19 16
