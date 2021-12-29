@@ -12,6 +12,7 @@ This tool offers control over who can enter your session. If you're a lone grind
 - Windows 8.1
 - Windows 10
 - Windows 11
+
 ## feature highlights
 - **autolock**
   - Automatically detect players present in session over a 30 second window and **lock** the session with those players.
