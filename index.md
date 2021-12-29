@@ -28,10 +28,10 @@ This tool offers control over who can enter your session. If you're a lone grind
 ## checksums
 
 #### MD5 hash of file applicationX64.zip:
-85 0d d9 6b a4 ec 3f 77 5a f7 5f f8 2c 40 c8 d4
+e5 92 99 b7 35 6b 7f ff 66 f7 74 cb 53 91 46 0e
 
 #### SHA256 hash of file applicationX64.zip:
-9a 2f 79 bb 53 9c a3 2b b2 41 1b 66 ce 54 17 9b 0c 4e 97 ec 80 e6 46 4d ac 04 30 5a 23 c5 9b 1e
+78 d1 27 ed be e0 3f 9f 3f a2 18 42 e0 df fb b4 f2 01 bf 81 76 4f c0 24 33 8f 31 ae 90 b1 32 f3
 
 #### SHA512 hash of file applicationX64.zip:
-b8 89 59 d1 c7 8e 5f 22 21 f5 1d cd 74 6d 7e b9 f8 79 dd 58 da f5 62 00 2b 66 37 21 65 64 b3 ea ee d1 1d 36 db 2a ac dd 10 8a 5a ae 99 cd 16 16 4a 01 95 02 c1 ce b3 ec c0 6f ef 14 5b ce 19 16
+35 d8 93 db da ee ee 88 6a 0f de 18 c8 54 be 97 2d ba 40 a4 3a a3 e6 a7 69 8d e7 f5 d6 ad 71 b7 98 ff e8 b2 b1 b7 56 51 9e 25 a5 90 92 3a 9b bf fe c6 00 8a 56 5f 65 9a 66 7b e8 64 78 fd 67 86
