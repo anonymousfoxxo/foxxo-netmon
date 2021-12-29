@@ -8,6 +8,10 @@
 
 This tool offers control over who can enter your session. If you're a lone grinder, enjoy the solitude of a strictly locked **solo session**. On the other hand, add friends to your whitelist and enjoy grinding without being disturbed by unwanted players.
 
+## compatibility
+- Windows 8.1
+- Windows 10
+- Windows 11
 ## feature highlights
 - **autolock**
   - Automatically detect players present in session over a 30 second window and **lock** the session with those players.
