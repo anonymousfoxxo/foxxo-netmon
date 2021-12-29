@@ -6,10 +6,15 @@ The objective of this project is to protect legitimate players of GTA Online fro
 
 ## Installation
 (1) To get started using foxxo-netmon, head to the official page
+
 (2) Download the latest version of foxxo-netmon and extract the files
+
 (3) Once the files have been extracted, extract the contents of the file named applicationX64.zip
+
 (4) A new folder named foxxo-netmon will now appear in the working directory (this is the root folder of foxxo-netmon)
+
 (5) Place the root folder anywhere in the system as you prefer
+
 (6) Run foxxo-netmon using foxxo-netmon.exe found inside the root folder (administrator privileges required)
 
 
